@@ -3,15 +3,15 @@
 Clone repository
 
 Create requirements.txt file with the following packages:
-*sqlalchemy
-*pandas
-*psycopg
+- sqlalchemy
+- pandas
+- psycopg
 
 Activate the script
-*in Powershell
+- in Powershell
 `env\Script\activate.ps1`
 
-*in Command Prompt
+- in Command Prompt
 `env\Script\activate.bat`
 
 
